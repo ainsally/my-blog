@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://my-blog-ainsally.vercel.app/",
+    url: "https://my-blog-eight-lyart.vercel.app/",
     title: "Boram.Dev",
     description: "취미용 포트폴리오",
     author: "이보람",
